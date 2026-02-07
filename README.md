@@ -21,7 +21,7 @@ The model learns user and movie patterns from historical ratings and recommends 
 ## Dataset
 - MovieLens dataset
 - The dataset included in this repository is a **reduced sample** for demonstration and GitHub size limits
-- Original dataset source: https://grouplens.org/datasets/movielens/
+- Original dataset source: https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system
 
 ## Tech Stack
 - Python
