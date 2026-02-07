@@ -19,7 +19,7 @@ The model learns user and movie patterns from historical ratings and recommends 
 - Users can select a User ID and view **Top-10 personalized movie recommendations**
 
 ## Dataset
-- MovieLens dataset
+- Movie Recommendation System dataset
 - The dataset included in this repository is a **reduced sample** for demonstration and GitHub size limits
 - Original dataset source: https://www.kaggle.com/datasets/parasharmanas/movie-recommendation-system
 
